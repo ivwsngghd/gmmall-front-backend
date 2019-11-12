@@ -11,7 +11,7 @@ const conf = {
     // online
     // serverHost: 'http://admin.ivwsngghd.top'
     // dev
-    serverHost: '',
+    serverHost: 'http://admin.ivwsngghd.top',
     imageHost: 'http://img.ivwsngghd.top/',
 }
 
